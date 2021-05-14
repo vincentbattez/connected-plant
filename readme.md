@@ -3,3 +3,8 @@
 ```sh
 yarn dev
 ```
+
+## Prod
+```sh
+yarn build
+```
